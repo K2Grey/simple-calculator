@@ -32,7 +32,7 @@ function calculate () {
 
     }
     else {
-        alert("Les deux valeurs sont requises.")
+        alert("Les deux valeurs sont requises.");
     }
 
 }
